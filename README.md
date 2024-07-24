@@ -1,5 +1,5 @@
-### 51-SMP310
-SMP310针式打印机头51单片机驱动程序<br /><br />
+### 51-SMP130
+SMP130针式打印机头51单片机驱动程序<br /><br />
 
 ## 📥如何使用
 void printerStitch(unsigned char str)   直接控制上部8针<br />
